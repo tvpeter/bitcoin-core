@@ -1,8 +1,9 @@
 # bitcoin-core
 
 ## Definition of Terms
-
-    Bitcoin Core: Bitcoin Core is the reference implementation of the bitcoin system, meaning that it is the authoritative reference on how each part of the technology should be implemented. Bitcoin Core implements all aspects of bitcoin, including wallets, a transaction and block validation engine, and a full network node in the peer-to-peer bitcoin network.
+    Bitcoin Core: Bitcoin Core is the reference implementation of the bitcoin system, meaning that it is the authoritative reference on how each
+    part of the technology should be implemented. Bitcoin Core implements all aspects of bitcoin, including wallets, a transaction and block
+    validation engine, and a full network node in the peer-to-peer bitcoin network.
 
 ## Objective    
 
@@ -21,5 +22,5 @@
     [![checks](./checks.png)](https://github.com/tvpeter/bitcoin-core/blob/main/checks.png)
 
 ##### References:
-[1]: <https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch03.asciidoc> "Bitcoin Book Chapter 3"
-[1]: <https://github.com/bitcoin/bitcoin/blob/master/doc/build-osx.md#2-compile> "macOS Build Guide"
+- [Bitcoin Book Chapter 3](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch03.asciidoc)
+- [macOS Build Guide](https://github.com/bitcoin/bitcoin/blob/master/doc/build-osx.md#2-compile) 
