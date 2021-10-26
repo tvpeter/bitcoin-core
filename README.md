@@ -1,11 +1,12 @@
 # bitcoin-core
 
 ## Definition of Terms
-    Bitcoin Core: 
-    > Bitcoin Core is the reference implementation of the bitcoin system, meaning that it is the authoritative reference on how each part of the technology should be implemented. Bitcoin Core implements all aspects of bitcoin, including wallets, a transaction and block validation engine, and a full network node in the peer-to-peer bitcoin network.
+
+    > Bitcoin Core: Bitcoin Core is the reference implementation of the bitcoin system, meaning that it is the authoritative reference on how each part of the technology should be implemented. Bitcoin Core implements all aspects of bitcoin, including wallets, a transaction and block validation engine, and a full network node in the peer-to-peer bitcoin network.
 
 ## Objective    
-    -   To compile Bitcoin Core and run unit for linked libraries and install Bitcoin Core Daemon (bitcoind) executables.
+
+    To compile Bitcoin Core and run unit for linked libraries and install Bitcoin Core Daemon (bitcoind) executables.
 
 ### STEPS
    -    Step I: Installing libraries:  To be able to build bitcoin command line client called bitcoind, we need to install libraries that will be used to configure Bitcoin Core. Depending on the OS you are using, locate the right instructions specific for your OS from the doc directory [here](https://github.com/bitcoin/bitcoin/tree/master/doc). For macOS, the instructions are in the readme file [here](https://github.com/bitcoin/bitcoin/blob/master/doc/build-osx.md). Follow the instructions and install all the required dependencies.
