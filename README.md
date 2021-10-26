@@ -21,5 +21,6 @@
     [![checks](./checks.png)](https://github.com/tvpeter/bitcoin-core/blob/main/checks.png)
 
     Reference:
+    
     - [Bitcoin Book Chapter 3](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch03.asciidoc)
     - [macOS Build Guide](https://github.com/bitcoin/bitcoin/blob/master/doc/build-osx.md#2-compile)
